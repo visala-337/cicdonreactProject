@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/visala-337/cicdonreactProject",
+  "homepage": "https://visala-337.github.io/cicdonreactProject",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
